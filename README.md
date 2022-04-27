@@ -35,7 +35,7 @@
 -----------------------------------
 ## 참고 영상
 1. [엘리샘과 인공지능 mblock-1](https://www.youtube.com/watch?v=pWPKf7OIH_s&t=367s) <br>
-2. [엘리샘과 인공지능 mblock-1](https://www.youtube.com/watch?v=pWPKf7OIH_s&t=367s) <br>
+2. [엘리샘과 인공지능 Orange3](https://www.youtube.com/watch?v=C1My7qMde40) <br>
 <br><br>
 
 ## 주요 링크
