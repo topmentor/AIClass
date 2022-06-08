@@ -2,7 +2,7 @@
 <br>
 
 ## 안내
-* 기말고사 예상문제 업로드 (2022-06-08)
+* 기말고사 학습문제 업로드 (2022-06-08)
 * 14주차 강의안, 실습데이터 업로드 (2022-06-08)
 * 13주차 강의안, 실습데이터 업로드 (2022-06-01)
 [recyclable_materials](https://drive.google.com/file/d/1gG48RrmXBvx37rJaRbbuhvvSzh8Jn9jm/view?usp=sharing)
