@@ -3,10 +3,6 @@
 
 ## 안내
 * 종강 입니다. 
-* 14주차 강의안, 실습데이터 업로드 (2022-06-08)
-* 13주차 강의안, 실습데이터 업로드 (2022-06-01)
-* 12주차 강의안, 실습데이터 업로드 (2022-05-25)
-* 11주차 강의안, 실습데이터 업로드 (2022-05-18)
 <br><br>
 
 -----------------------------------
@@ -35,16 +31,11 @@
 <br><br>
 
 -----------------------------------
-## 참고 영상
-1. [엘리샘과 인공지능 mblock-1](https://www.youtube.com/watch?v=pWPKf7OIH_s&t=367s) <br>
-2. [엘리샘과 인공지능 Orange3](https://www.youtube.com/watch?v=C1My7qMde40) <br>
-<br><br>
 
 ## 주요 링크
 1. [Orange3 download](https://orangedatamining.com/download/#windows) <br>
 2. [mblock download](https://mblock.makeblock.com/en-us/download/) <br>
-3. [스크래치](https://scratch.mit.edu/) <br>
-4. [의료정보과 교과과정](https://www.shu.ac.kr/file/announcing/cur_mis_2021.pdf) <br>
+3. [의료정보과 교과과정](https://www.shu.ac.kr/file/announcing/cur_mis_2021.pdf) <br>
 <br><br>
 
 
